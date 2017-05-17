@@ -9,9 +9,8 @@
 2. MVP
 - Model – View – Presenter
 - 입력이 View에서 처리 됨
-- View에서 이벤트가 발생하면 Presenter에게 전달해주고 Presenter는 해당 이벤트에 따른 Model을 조작하고 그 결과를 바인딩을 통해 View에게 통보를 하여 View를 업데이트
+- View에서 이벤트가 발생하면 Presenter에게 전달해주고 Presenter는 해당 이벤트에 따른 Model을 조작하고 그 결과를 View에게 통보를 하여 View를 업데이트
 - Model과 View가 분리되어있음
--
 
 
 **공통점**
@@ -20,6 +19,9 @@
 
 
 ![enter image description here](https://cdn-images-1.medium.com/max/800/0*CNMHroWFQUOEC-PI.png)
+
+
+![enter image description here](http://www.techyourchance.com/wp-content/uploads/2015/06/MVC_MVP.png)
 
 #### Stream
 - 자료의 입출력을 도와주는 중간매개체
